@@ -10,7 +10,7 @@
   
  
 - 📫 How to reach me:
-  - [Linkdin](www.linkedin.com/in/raziyeh-fayyaz-724ab4197)
+  - [Linkedin](www.linkedin.com/in/raziyeh-fayyaz-724ab4197)
   - [email](r.fayaz1998@gmail.com)
 
 <!---
