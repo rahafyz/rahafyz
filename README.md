@@ -3,9 +3,9 @@
 - 🌱 I’m always learning and searching for my improvement.
 - ✨ interests:
   - java
-  - hibernate
   - spring boot
   - spring data
+  - hibernate
   - jsp
   
  
