@@ -5,8 +5,7 @@
   - java
   - spring boot
   - spring data
-  - hibernate
-  - jsp
+  - spring security
   
  
 - 📫 How to reach me:
